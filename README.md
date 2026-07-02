@@ -7,8 +7,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajinkya47/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0229-majority-element-ii](https://github.com/Ajinkya47/DSA/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajinkya47/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Ajinkya47/DSA/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Ajinkya47/DSA/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Ajinkya47/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
