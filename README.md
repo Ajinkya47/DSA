@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ajinkya47/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Ajinkya47/DSA/tree/master/0018-4sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajinkya47/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0229-majority-element-ii](https://github.com/Ajinkya47/DSA/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ajinkya47/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Ajinkya47/DSA/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Ajinkya47/DSA/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -30,4 +32,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ajinkya47/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Ajinkya47/DSA/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
