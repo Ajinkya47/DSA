@@ -4,6 +4,9 @@ class Solution {
         int[] result=new int[2];
 
         result[0]=findfirst(nums,target);
+
+        if(result[0]==-1) return new int[]{-1,-1};
+
         result[1]=findlast(nums,target);
 
         return result;
