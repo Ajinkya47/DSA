@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ajinkya47/DSA/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ajinkya47/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ajinkya47/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Ajinkya47/DSA/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ajinkya47/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ajinkya47/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ajinkya47/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Ajinkya47/DSA/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
