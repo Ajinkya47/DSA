@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ajinkya47/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ajinkya47/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ajinkya47/DSA/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ajinkya47/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
