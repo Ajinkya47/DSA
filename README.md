@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ajinkya47/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ajinkya47/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ajinkya47/DSA/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Ajinkya47/DSA/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Ajinkya47/DSA/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Ajinkya47/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Ajinkya47/DSA/tree/master/0509-fibonacci-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ajinkya47/DSA/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Ajinkya47/DSA/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ajinkya47/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
