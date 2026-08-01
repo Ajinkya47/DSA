@@ -24,6 +24,15 @@ class Solution {
         while(low<=high){
             int mid = low +(high-low)/2;
 
+            if(nums[low]<=nums[high]){// search space is already sorted then  first element is the smallest element
+
+            ans = Math.min(ans,nums[low]);
+            break;
+
+            }
+
+
+
             if(nums[low]<=nums[mid]){
                 
                 ans=Math.min(ans,nums[low]);
