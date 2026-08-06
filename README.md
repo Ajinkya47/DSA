@@ -213,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ajinkya47/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Ajinkya47/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
