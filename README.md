@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ajinkya47/DSA/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Ajinkya47/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ajinkya47/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Ajinkya47/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Ajinkya47/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ajinkya47/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ajinkya47/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ajinkya47/DSA/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Ajinkya47/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ajinkya47/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ajinkya47/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Ajinkya47/DSA/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ajinkya47/DSA/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Ajinkya47/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ajinkya47/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ajinkya47/DSA/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ajinkya47/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajinkya47/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ajinkya47/DSA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Ajinkya47/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ajinkya47/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ajinkya47/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ajinkya47/DSA/tree/master/0875-koko-eating-bananas) |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ajinkya47/DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Ajinkya47/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ajinkya47/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ajinkya47/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Ajinkya47/DSA/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ajinkya47/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Ajinkya47/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -178,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ajinkya47/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ajinkya47/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Ajinkya47/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ajinkya47/DSA/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ajinkya47/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
