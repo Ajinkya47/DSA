@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ajinkya47/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ajinkya47/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Ajinkya47/DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Ajinkya47/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Ajinkya47/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ajinkya47/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ajinkya47/DSA/tree/master/0078-subsets) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajinkya47/DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Ajinkya47/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajinkya47/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Ajinkya47/DSA/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ajinkya47/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Ajinkya47/DSA/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Ajinkya47/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Ajinkya47/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Ajinkya47/DSA/tree/master/0860-lemonade-change) |
