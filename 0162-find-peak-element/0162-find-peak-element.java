@@ -8,8 +8,8 @@ class Solution {
         if(n==1) return 0;
         if(nums[low]>nums[low+1]) return low;
         if(nums[high]>nums[high-1]) return high;
-        low++;
-        high--;
+        low = 1;
+        high=n-2;
         
 
         while(low<=high){
